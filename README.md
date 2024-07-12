@@ -4,9 +4,19 @@ Make a programmer fall in love with these love phrases
 ```
 "You are the CSS to my HTML; together, we create something beautiful."
 ```
-```"You're the semicolon to my statements; without you, my life is incomplete."```
+
+```
+"You're the semicolon to my statements; without you, my life is incomplete."
+```
+
+```
 "If I were an algorithm, I'd search the entire world just to find you."
+```
+
+```
 "Our love is like a recursive function; it keeps calling back."
+```
+
 "You are the exception I’ll always catch."
 "In the infinite loop of my heart, you’re the only condition."
 "We must be in a nested loop because I keep falling for you over and over."

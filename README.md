@@ -1,7 +1,9 @@
 # Coding Flirt
 Make a programmer fall in love with these love phrases	
 
+```
 "You are the CSS to my HTML; together, we create something beautiful."
+```
 "You're the semicolon to my statements; without you, my life is incomplete."
 "If I were an algorithm, I'd search the entire world just to find you."
 "Our love is like a recursive function; it keeps calling back."

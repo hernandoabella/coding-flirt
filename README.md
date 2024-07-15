@@ -17,9 +17,18 @@ Make a programmer fall in love with these love phrases
 "Our love is like a recursive function; it keeps calling back."
 ```
 
+```
 "You are the exception I’ll always catch."
+```
+
+```
 "In the infinite loop of my heart, you’re the only condition."
+```
+
+```
 "We must be in a nested loop because I keep falling for you over and over."
+```
+
 "You are the syntax highlighting in my code editor; you bring color to my world."
 "I’d traverse the entire data structure of the universe just to find you."
 "You're the algorithm that optimizes my happiness."

@@ -36,17 +36,51 @@ Make a programmer fall in love with these love phrases
 ```
 "I’d traverse the entire data structure of the universe just to find you."
 ```
+
+```
 "You're the algorithm that optimizes my happiness."
+```
+
+```
 "You're the API my heart wants to call every day."
+```
+
+```
 "Our love is like a perfectly balanced binary tree; it’s efficient and strong."
+```
+
+```
 "If love were a hash function, you'd be my perfect match."
+```
+
+```
 "You are the 1 to my binary heart."
+```
+
+```
 "You’ve coded yourself into the memory of my heart, and there’s no garbage collector strong enough to remove you."
+```
+
+```
 "You are the final commit in the repository of my heart."
+```
+
+```
 "With you, my heart experiences zero latency."
+```
+
+```
 "You're the encryption key to my soul."
+```
+
+```
 "In the array of my life, you're the only element I need."
+```
+
+```
 "Our love is like a perfectly executed algorithm; it’s logical and flawless."
+```
+
 "You're the compiler that makes sense of my complex code."
 "My love for you is like an infinite loop; it never ends."
 "You’re the regular expression that matches my heart."

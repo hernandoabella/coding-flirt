@@ -11,17 +11,17 @@ const Card: React.FC<CardProps> = ({ description }) => {
   const handleCopy = () => {
     navigator.clipboard.writeText(description).then(
       () => {
-        alert("Frase copiada al portapapeles!");
+        alert("Phrase copied!");
       },
       (err) => {
-        console.error("Error al copiar: ", err);
+        console.error("Error: ", err);
       }
     );
   };
 
   return (
     <div className="bg-white shadow-md rounded-lg p-6 m-4 relative">
-      <button onClick={handleCopy} className="absolute top-2 right-2">
+      <button aria-label="copy button" onClick={handleCopy} className="absolute top-2 right-2">
         <FaCopy />
       </button>
       <p className="text-gray-700 text-xl p-5">{description}</p>

@@ -81,19 +81,58 @@ Make a programmer fall in love with these love phrases
 "Our love is like a perfectly executed algorithm; it’s logical and flawless."
 ```
 
+```
 "You're the compiler that makes sense of my complex code."
+```
+
+```
 "My love for you is like an infinite loop; it never ends."
+```
+
+```
 "You’re the regular expression that matches my heart."
+```
+
+```
 "Together, we can handle any exception life throws at us."
+```
+
+```
 "You are the primary key to my relational database."
+```
+
+```
 "With you, my heart’s CPU runs at full speed."
+```
+
+```
 "You are the protocol to my communication, ensuring we always connect."
+```
+
+```
 "You’ve hacked into my heart and overridden all security protocols."
+```
+
+```
 "Your smile is the breakpoint that stops my heart."
+```
+
+```
 "You’re the framework that supports the structure of my love."
+```
+
+```
 "Our love is like a distributed system; it’s robust and reliable."
+```
+
+```
 "You are the input that gives meaning to my output."
+```
+
+```
 "In the codebase of life, you are my favorite function."
+```
+
 "You’re the perfect algorithm in the chaotic program of my heart."
 "You are the cloud to my computing; you make everything better."
 "You are the root to my tree; without you, I’m unbalanced."

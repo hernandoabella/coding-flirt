@@ -1,15 +1,33 @@
-import React from 'react';
+"use client";
+
+import React from "react";
+import { FaCopy, FaQuoteLeft } from "react-icons/fa";
 
 interface CardProps {
-  title: string;
   description: string;
 }
 
-const Card: React.FC<CardProps> = ({ title, description }) => {
+const Card: React.FC<CardProps> = ({ description }) => {
+  const handleCopy = () => {
+    navigator.clipboard.writeText(description).then(
+      () => {
+        alert("Frase copiada al portapapeles!");
+      },
+      (err) => {
+        console.error("Error al copiar: ", err);
+      }
+    );
+  };
+
   return (
-    <div className="bg-white shadow-md rounded-lg p-6 m-4">
-      <h2 className="text-2xl font-bold mb-4">{title}</h2>
-      <p className="text-gray-700">{description}</p>
+    <div className="bg-white shadow-md rounded-lg p-6 m-4 relative">
+      <button onClick={handleCopy} className="absolute top-2 right-2">
+        <FaCopy />
+      </button>
+      <p className="text-gray-700 text-xl p-5">{description}</p>
+      <div>
+        <FaQuoteLeft className="text-3xl relative" />
+      </div>
     </div>
   );
 };

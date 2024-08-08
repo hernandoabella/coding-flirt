@@ -131,9 +131,12 @@
 "In the codebase of life, you are my favorite function."
 ```
 
+```
 "You’re the perfect algorithm in the chaotic program of my heart."
-"You are the cloud to my computing; you make everything better."
-"You are the root to my tree; without you, I’m unbalanced."
+```
+
+"You are the cloud to my computing; you improve everything."
+"You are the root of my tree; without you, I’m unbalanced."
 "In the stack of my heart, you’re always on top."
 "You're the debugger that fixes all the bugs in my life."
 "With you, my heart achieves maximum throughput."
